@@ -204,14 +204,6 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
----
 
-# 📚 References
-
-- SELFIES: A Robust Representation of Semantically Constrained Graphs
-- Wasserstein GAN with Gradient Penalty (WGAN-GP)
-- RDKit
-- ChEMBL Database
-- PubChem Database
 
 
