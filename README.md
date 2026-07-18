@@ -122,32 +122,6 @@ The final optimized molecules are converted into 2D and 3D molecular structures 
 
 ---
 
-# 📂 Project Structure
-
-```
-Intelligent-Molecule-Generator/
-│
-├── data/
-├── models/
-├── notebooks/
-├── images/
-│   ├── architecture.png
-│   ├── workflow.png
-│   ├── result1.png
-│   ├── result2.png
-│   ├── molecule1.png
-│   └── molecule2.png
-│
-├── utils/
-├── train.py
-├── generate.py
-├── evaluate.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 # 📊 Results
 
 ## Generated Drug Candidates
@@ -232,41 +206,6 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Usage
-
-Train the model
-
-```bash
-python train.py
-```
-
-Generate molecules
-
-```bash
-python generate.py
-```
-
-Evaluate molecules
-
-```bash
-python evaluate.py
-```
-
----
-
-# 🎯 Future Improvements
-
-- Graph Neural Network discriminator
-- Diffusion-based molecule generation
-- Multi-objective Reinforcement Learning
-- Protein-Ligand Docking Integration
-- ADMET prediction
-- Molecular toxicity prediction
-- Molecular similarity search
-- Real-time web application using Streamlit
-
----
-
 # 📚 References
 
 - SELFIES: A Robust Representation of Semantically Constrained Graphs
@@ -275,16 +214,4 @@ python evaluate.py
 - ChEMBL Database
 - PubChem Database
 
----
 
-# 👨‍💻 Author
-
-**Liyan C K M**
-
-B.Tech Computer Science and Engineering
-
-College of Engineering Trivandrum (CET)
-
----
-
-# ⭐ If you found this project useful, consider giving it a star!
