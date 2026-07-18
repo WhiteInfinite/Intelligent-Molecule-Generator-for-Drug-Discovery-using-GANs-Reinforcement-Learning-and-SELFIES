@@ -19,7 +19,7 @@ The pipeline consists of:
 
 ---
 
-# 🏗️ System Architecture
+# 🔄 Project Workflow
 
 <p align="center">
   <img src="images/workflow.png" width="750">
@@ -37,7 +37,7 @@ The complete workflow consists of:
 
 ---
 
-# 🔄 Project Workflow
+# 🏗️ System Architecture
 
 <p align="center">
   <img src="images/architecture.png" width="700">
